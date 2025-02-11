@@ -1,1 +1,1 @@
-This is my globalThis.
+This is my global..This. is not golbal ViewTransition.toString
