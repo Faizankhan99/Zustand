@@ -1,1 +1,2 @@
-This is my global..This. is not golbal ViewTransition.toString
+This is my global..This. is not golbal <ViewTransition className="toStringgit">
+</ViewTransition>
